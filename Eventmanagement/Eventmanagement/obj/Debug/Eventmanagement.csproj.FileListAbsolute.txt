@@ -1,0 +1,8 @@
+C:\Users\ANI\source\repos\Eventmanagement\Eventmanagement\bin\Debug\Eventmanagement.exe.config
+C:\Users\ANI\source\repos\Eventmanagement\Eventmanagement\bin\Debug\Eventmanagement.exe
+C:\Users\ANI\source\repos\Eventmanagement\Eventmanagement\bin\Debug\Eventmanagement.pdb
+C:\Users\ANI\source\repos\Eventmanagement\Eventmanagement\obj\Debug\Eventmanagement.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\Eventmanagement\Eventmanagement\obj\Debug\Eventmanagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANI\source\repos\Eventmanagement\Eventmanagement\obj\Debug\Eventmanagement.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\Eventmanagement\Eventmanagement\obj\Debug\Eventmanagement.exe
+C:\Users\ANI\source\repos\Eventmanagement\Eventmanagement\obj\Debug\Eventmanagement.pdb
